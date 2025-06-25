@@ -1,0 +1,68 @@
+
+Senior Software Engineer, Agentic Core Services (CoreAI)
+   Job Id:          : 1824889
+   Description      :
+      Core AI is at the forefront of Microsoft’s mission to redefine how
+      software is built and experienced. We are responsible for building the
+      foundational platforms, services, programming models, and developer
+      experiences that power the next generation of applications using
+      Generative AI. Our work enables developers and enterprises to harness the
+      full potential of AI to create intelligent, adaptive, and transformative
+      software.   The Agentic  Core Services Team  is responsible for  building
+      the cloud-native, distributed platform that powers the development,
+      execution, and management of agentic applications at scale. Our mission is
+      to provide the foundational infrastructure and runtime systems that enable
+      developers to build intelligent, autonomous, and enterprise-grade AI
+      agents with confidence and agility.     In this role, you will help define
+      the future of software and application development. You will shape how
+      developers interact with our platform—from programming models and user
+      experiences to the design of a managed, distributed runtime that
+      orchestrates agent-based AI applications at scale with enterprise-grade
+      guarantees. You’ll work at the cutting edge of AI research, collaborating
+      with some of the brightest minds in generative AI, and integrating the
+      latest breakthroughs in multi-modal capabilities (text, audio, video) into
+      real-world agentic applications.   At Microsoft, our mission is to empower
+      every person and every organization on the planet to achieve more. We live
+      this mission every day through a culture that embraces a growth mindset,
+      values diverse perspectives, and encourages continuous learning. We
+      believe in creating an environment where individuals bring their best
+      selves to work, collaborate openly, and build technology that makes a
+      meaningful impact. Join us and help shape the future of the world....      Required Qualifications: Bachelor's Degree in Computer Science or related
+      technical field AND 4+ years technical engineering experience with coding
+      in languages including, but not limited to, C, C++, C#, Java, JavaScript,
+      or Python OR equivalent experience 4+ years of experience designing,
+      building, and operating production-grade software and services at scale,
+      with a proven track record of delivering high-impact solutions. Other
+      Requirements:   Ability to meet Microsoft, customer and/or government
+      security screening requirements are required for this role. These
+      requirements include but are not limited to the following specialized
+      security screenings: Microsoft Cloud Background Check: This position will
+      be required to pass the Microsoft Cloud background check upon
+      hire/transfer and every two years thereafter. Preferred Qualifications:
+      Demonstrated expertise in solving complex technical challenges in one or
+      more domains such as distributed systems, AI/ML infrastructure, developer
+      platforms, or cloud services. Software Engineering IC4 - The typical base
+      pay range for this role across the U.S. is USD $119,800 - $234,700 per
+      year. There is a different range applicable to specific work locations,
+      within the San Francisco Bay area and New York City metropolitan area, and
+      the base pay range for this role in those locations is USD $158,400 -
+      $258,000 per year. Certain roles may be eligible for benefits and other
+      compensation. Find additional benefits and pay information here:
+      https://careers.microsoft.com/us/en/us-corporate-pay Microsoft posts
+      positions for a minimum of 5 days, with applications accepted on an
+      ongoing basis until the position is filled.   Microsoft is an equal
+      opportunity employer. All qualified applicants will receive consideration
+      for employment without regard to age, ancestry, color, family or medical
+      care leave, gender identity or expression, genetic information, marital
+      status, medical condition, national origin, physical or mental disability,
+      political affiliation, protected veteran status, race, religion, sex
+      (including pregnancy), sexual orientation, or any other characteristic
+      protected by applicable laws, regulations and ordinances.  We also
+      consider qualified applicants regardless of criminal histories, consistent
+      with legal requirements. If you need assistance and/or a reasonable
+      accommodation due to a disability during the application or the recruiting
+      process, please send a request via the  Accommodation request form .  
+      Benefits/perks listed below may vary depending on the nature of your
+      employment with Microsoft and the country where you work.   ##AIPLATFORM##
+       #CoreAI      ...
+--------------------------------------------------------------------------------

@@ -1,0 +1,63 @@
+
+Senior Software Engineer
+   Job Id:          : 1825910
+   Description      :
+      Dynamics 365 is Microsoft’s suite of enterprise software that  power  many
+      of the largest businesses in the world. The Customer Experience
+      Applications Team delivers Dynamics 365 Customer Service Omnichannel that
+      lets our customers run intelligent and highly scalable contact centers. We
+      are building the next generation of our applications  running on Azure
+      that pull togeth er Dynamics 365, Off ice  365  and  a number of  other
+      Microsoft cloud services to deliver high value, complete, and predictive
+      application scenarios across all devices and form factors.     Omnichannel
+      for Customer Service is a robust application that extends the power
+      of Dynamics 365 Customer Service to enable organizations to instantly
+      connect and engage with their customers via channels like Live Chat,
+      Voice, and SMS.   We are looking to hire a  Senior  Software Engineer  in
+      the Microsoft Dynamic s Customer Experience Applications team, you will
+      work with senior business and technology leaders as well as internal
+      business users and partners to conceive, design and implement Dynamics 365
+      applications and pick the best technical architecture to solve their
+      business needs.    We innovate quickly and collaborate clos ely with our
+      partners and customers in a very agile environment. If the opportunity to
+      collaborate with a diverse engineering team , on  enabling end-to-end
+      business scenarios using  cutting-edge  technologies and  to solve
+      problems for large scale 24x7 business SaaS applications excite you, we
+      would love to talk to you!   ...      Required/Minimum Qualifications   Bachelor's Degree in Computer Science ,
+      or related technical discipline  AND 4+ years   technical engineering
+      experience with coding in languages including, but not limited to, C, C++,
+      C#, Java, or Python   OR  equivalent experience Experience with design and
+      implementation of enterprise-scale services   Experience with customers
+      success, zero trust security and compliance     Preferred/Additional
+      Qualifications Solid coding, debugging ,  and problem-solving skills  
+      Experience delivering Dynamics 365 and/or Power Platform solutions  
+      Excellent verbal, written, and cross-team collaboration skills   Passion
+      for improving software quality and engineering excellence   A  strong team
+      player and collaborator, across time zones and diverse stakeholder groups
+      Passion for improving software quality and engineering excellence  
+      Experience with building infrastructure using Microsoft Azure , AWS,  or
+      Google Cloud   Experience in developing and debugging products and test
+      code within  REST and gRPC   Software Engineering IC4 - The typical base
+      pay range for this role across the U.S. is USD $119,800 - $234,700 per
+      year. There is a different range applicable to specific work locations,
+      within the San Francisco Bay area and New York City metropolitan area, and
+      the base pay range for this role in those locations is USD $158,400 -
+      $258,000 per year. Certain roles may be eligible for benefits and other
+      compensation. Find additional benefits and pay information here: 
+      https://careers.microsoft.com/us/en/us-corporate-pay Microsoft will accept
+      applications for the role until July 4th, 2025.   Microsoft is an equal
+      opportunity employer. All qualified applicants will receive consideration
+      for employment without regard to age, ancestry, color, family or medical
+      care leave, gender identity or expression, genetic information, marital
+      status, medical condition, national origin, physical or mental disability,
+      political affiliation, protected veteran status, race, religion, sex
+      (including pregnancy), sexual orientation, or any other characteristic
+      protected by applicable laws, regulations and ordinances.  We also
+      consider qualified applicants regardless of criminal histories, consistent
+      with legal requirements. If you need assistance and/or a reasonable
+      accommodation due to a disability during the application or the recruiting
+      process, please send a request via the  Accommodation request form .  
+      Benefits/perks listed below may vary depending on the nature of your
+      employment with Microsoft and the country where you work.   #BICJobs
+      #CESJOBS    ...
+--------------------------------------------------------------------------------

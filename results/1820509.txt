@@ -1,0 +1,71 @@
+
+Senior Software Engineer
+   Job Id:          : 1820509
+   Description      :
+      Microsoft Silicon, Cloud Hardware, and Infrastructure Engineering (SCHIE)
+      is the team behind Microsoft’s expanding Cloud Infrastructure and
+      responsible for powering Microsoft’s “Intelligent Cloud” mission. SCHIE
+      delivers the core infrastructure and foundational technologies for
+      Microsoft's over 200 online businesses including Bing, MSN, Office 365,
+      Xbox Live, Teams, OneDrive, and the Microsoft Azure platform globally with
+      our server and data center infrastructure, security and compliance,
+      operations, globalization, and manageability solutions. Our focus is on
+      smart growth, high efficiency, and delivering a trusted experience to
+      customers and partners worldwide and we are looking for passionate
+      engineers to help achieve that mission.   The Data Processing Unit (DPU)
+      team brings together state-of-the-art software and hardware expertise to
+      create a highly programmable and high-performance ASIC with the capability
+      to efficiently handle large data streams. Thanks to its integrated design,
+      this solution empowers teams to operate with increased agility and deliver
+      significantly superior performance compared to CPU-based alternatives.  
+      We are seeking a Senior Software Engineer to join our DPU Runtime (OS)
+      Driver team responsible for developing cutting edge, high-performance
+      scalable and programmable DPU software with a focus on Control Plane
+      device drivers and associated tools. You will be a key contributor within
+      our DPU driver software team. You will bring your Operating System,
+      Driver, and Embedded Software Development experience to contribute to DPU
+      driver code and related host software. Your contributions will have a wide
+      impact across Azure through the development of the latest generation PCIe
+      adapter cards.   Microsoft’s mission is to empower every person and every
+      organization on the planet to achieve more. As employees we come together
+      with a growth mindset, innovate to empower others, and collaborate to
+      realize our shared goals. Each day we build on our values of respect,
+      integrity, and accountability to create a culture of inclusion where
+      everyone can thrive at work and beyond....      Minimum Qualifications: Bachelor's Degree in Computer Science, or related
+      technical discipline  AND 4+ years   technical engineering experience with
+      coding in languages including, but not limited to, C, C++, C#, Java,
+      JavaScript, or Python   OR  equivalent experience 3+ years of C/C++
+      programming experience 3+ years of Embedded and/or Operating System Kernel
+      development experience 3+ years of experience developing device drivers
+      (for Linux or Windows) Other Requirements: Ability to meet Microsoft,
+      customer and/or government security screening requirements are required
+      for this role. These requirements include, but are not limited to, the
+      following specialized security screenings: Microsoft Cloud Background
+      Check: This position will be required to pass the Microsoft Cloud
+      background check upon hire/transfer and every two years thereafter.  
+      Preferred Qualifications: Experience with Operating System (Linux or
+      Windows) configuration and deployment Experience with ARM architecture
+      Experience with developing PCIe drivers and/or firmware Experience with
+      developing in Rust Software Engineering IC4 - The typical base pay range
+      for this role across the U.S. is USD $117,200 - $229,200 per year. There
+      is a different range applicable to specific work locations, within the San
+      Francisco Bay area and New York City metropolitan area, and the base pay
+      range for this role in those locations is USD $153,600 - $250,200 per
+      year. Certain roles may be eligible for benefits and other compensation.
+      Find additional benefits and pay information here:  US corporate pay
+      information | Microsoft Careers Microsoft will accept applications for the
+      role until June 25, 2025.   Microsoft is an equal opportunity employer.
+      All qualified applicants will receive consideration for employment without
+      regard to age, ancestry, color, family or medical care leave, gender
+      identity or expression, genetic information, marital status, medical
+      condition, national origin, physical or mental disability, political
+      affiliation, protected veteran status, race, religion, sex (including
+      pregnancy), sexual orientation, or any other characteristic protected by
+      applicable laws, regulations and ordinances.  We also consider qualified
+      applicants regardless of criminal histories, consistent with legal
+      requirements. If you need assistance and/or a reasonable accommodation due
+      to a disability during the application or the recruiting process, please
+      send a request via the  Accommodation request form .   Benefits/perks
+      listed below may vary depending on the nature of your employment with
+      Microsoft and the country where you work.   #SCHIE...
+--------------------------------------------------------------------------------

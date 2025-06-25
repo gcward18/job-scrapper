@@ -1,0 +1,50 @@
+Experience
+iPerformX
+Full-Stack Team Lead / Scrum Master (promotion) May 2024-Jan 2025
+● Integrated Real User Monitoring (RUM) into Azure Application Insights to drive platform reliability improvements—providing deep insights into user behavior, regional latency trends, and session-level diagnostics for proactive issue resolution.
+● Improved API performance by 300% and reduced critical user flow latency by 60% through targeted optimizations in ASP.NET Core, including efficient query handling, response compression, and async processing.
+● Streamlined development workflows by migrating to a monorepo architecture, integrating path-aware Azure DevOps pipelines to support targeted builds and deployments, resulting in 85% less downtime and a 20% increase in release frequency.
+● Provided technical leadership and mentorship to 20+ engineers across 3 cross-functional teams, accelerating delivery of key performance and scalability enhancements for a defense training platform serving active military personnel.
+● Led the migration of event-driven architecture from RabbitMQ to Azure Service Bus, streamlining message handling, enhancing traceability via Azure Monitor and Application Insights, and reducing platform maintenance by leveraging PaaS offerings.
+Full-Stack Team Lead (promotion) Sep 2023-May 2024
+● Designed and implemented a full-stack Syllabus Management System, enabling dynamic syllabus templating and real-time student state tracking-improving onboarding speed and reducing manual progress tracking errors.
+● Engineered a full-stack content delivery pipeline for multimedia lesson assets (mp3, mp4, SVG, PNG, PDFs), using Azure Blob Storage for scalable storage and Syncfusion + speech services for automated content transcription, enhancing accessibility and metadata indexing
+● Built scalable Angular components to efficiently render thousands of event records with dynamic labels and color states, leveraging lazy loading, virtualization, and memorized caching to maintain low latency and high UX responsiveness.
+Junior Full-Stack Developer Aug 2020-Sep 2023
+● Enhanced backend efficiency by refactoring C# services and tuning Entity Framework LINQ queries and SQL indexes, achieving a 40% boost in data processing performance for high-volume operations.
+● Migrated Azure public cloud infrastructure to a government cloud instance, enhancing security across the system by adhering to STIGs, maintaining ATO compliance, and documenting the full migration process for future repeatability.
+● Built a full-stack service for tracking student flight activities and learning progress, with interactive Chart.js visualizations highlighting trends in competency and event performance throughout training phases.
+● Led the migration of core Angular applications from v14 to v16, ensuring zero downtime and full feature parity throughout deployment windows.
+Intuitive Surgical
+Field Service Support Software Developer Jan 2020 - Aug 2020
+● Designed and built a Windows service to track logs from a field service support desktop application and monitor file changes in an S3 bucket, leveraging Python (PyQt/QML) and AWS CLI to interface with cloud resources and trigger downstream caching services.
+● Built deployable Windows executables using PyInstaller, implementing versioning and packaging all dependencies to ensure consistent installations across environments. Automated retrieval of external resources via package managers (e.g., pip, Chocolatey), and maintained strict version control to guarantee reproducible builds.
+● Prototyped a lightweight desktop application variant to eliminate QML dependencies for rendering embedded web content, using Qt WebEngine, Jinja2, and Python 3.8.4 to serve in-app documentation efficiently.
+George Charon Ward
+573-712-6440 | gcward18@gmail.com | https://www.linkedin.com/in/georgecward/
+AT&T
+Full-Stack Software Developer May 2019 - Aug 2019
+● Prototyped a mobile AR application to help users locate stronger cellular signal by calculating distance to nearby towers using GPS, accelerometer data, and Entity Framework. Integrated Google Firebase for real-time data storage and sync across sessions. Presented the final solution to executive leadership at program completion.
+● Developed web pages for an internal partner application to track product site build projects, using React.js (JavaScript) for the frontend, Java + Spring Boot for RESTful APIs, and MySQL for the backend data layer.
+Device Solutions
+Software Developer May 2018 - Aug 2018
+● Analyzed cellular packet data (UDP/TCP) using Wireshark to investigate and optimize data usage in IoT devices. Documented findings and presented insights to leadership to inform network efficiency improvements
+● Developed automated scripts to retrieve and parse packet data from Wireshark, formatting results into CSV reports and visualizing key metrics using Vanilla JavaScript, HTML, and CSS for easy consumption by non-technical stakeholders
+● Developed a full-stack support and billing service for a client using Vanilla JavaScript, HTML, and CSS for the frontend, Python 3 for the backend logic, and MySQL as the database layer
+WW Wood Products Inc.
+Software Developer May 2017 - Sep 2017
+● Developed a web-based application using C#, JavaScript, HTML, CSS, and SQL, deployed on Azure, to track available resources across various stages of factory operations
+● Collaborated with stakeholders and factory managers to gather requirements, review solution proposals, and present the finalized product for feedback and validation
+Notable Projects:
+Posing Clinic – AI-Powered Bodybuilding Posing Feedback Platform
+● Developed a full-stack AI-driven pose analysis app leveraging React (frontend), FastAPI (backend), TailwindCSS (UI), and Docker (deployment), integrating Meta LLaMA models to evaluate bodybuilding poses and deliver intelligent feedback.
+● Orchestrated multimodel inference by integrating Grow Cloud's LLM API with MinIO object storage, supporting seamless image handling, retrieval, and real-time LLM-driven analysis.
+Performance Optimization Initiative
+● Analyzed and optimized backend latency bottlenecks, tuning Redis caching strategies and key expiration policies, resulting in a 40% reduction in response time for high-traffic endpoints.
+● Optimized service memory usage and database I/O by implementing asynchronous request handling and cache-first access patterns, resulting in improved throughput and reduced resource consumption.
+Education
+BS in Computer Science - Missouri University of Science and Technology
+● GPA 3.7/4.0, honored on Dean's List
+Military Service
+Missouri National Guard (2015-2019) – 735th Support Battalion Solider of the Year
+US Navy (2011-2015) – Trained and supported ship operations and personnel

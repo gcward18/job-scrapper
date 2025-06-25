@@ -1,0 +1,225 @@
+
+1. Senior Software Engineer
+   Job Id:          : 1820515
+   Location         : Santa Clara, California, United States
+   Posted on        : 2025-06-24
+   Role Type        : Individual Contributor
+   Job Type         : Industry
+   Work Flexibility : Up to 50% work from home
+   Description      :
+      Microsoft Silicon, Cloud Hardware, and Infrastructure Engineering (SCHIE)
+      is the team behind Microsoft’s expanding Cloud Infrastructure and
+      responsible for powering Microsoft’s “Intelligent Cloud” mission. SCHIE
+      delivers the core infrastructure and foundational technologies for
+      Microsoft's over 200 ...
+--------------------------------------------------------------------------------
+
+2. Senior AI/ML Engineer - PowerPoint
+   Job Id:          : 1828729
+   Location         : Mountain View, California, United States
+   Posted on        : 2025-06-24
+   Role Type        : Individual Contributor
+   Job Type         : Industry
+   Work Flexibility : Up to 50% work from home
+   Description      :
+      Join the PowerPoint team as we deliver modern, intelligent, and
+      collaborative experiences that will delight millions of PowerPoint
+      customers. Located in the heart of Silicon Valley in Mountain View, CA, we
+      are looking for an experienced machine learning  engineer  who is excited
+      to apply ML to real-...
+--------------------------------------------------------------------------------
+
+3. Senior Software Engineer
+   Job Id:          : 1825910
+   Location         : Seattle, Washington, United States
+   Posted on        : 2025-06-24
+   Role Type        : Individual Contributor
+   Job Type         : Industry
+   Work Flexibility : Up to 50% work from home
+   Description      :
+      Dynamics 365 is Microsoft’s suite of enterprise software that  power  many
+      of the largest businesses in the world. The Customer Experience
+      Applications Team delivers Dynamics 365 Customer Service Omnichannel that
+      lets our customers run intelligent and highly scalable contact centers. We
+      are building...
+--------------------------------------------------------------------------------
+
+4. Software Engineer II
+   Job Id:          : 1832827
+   Location         : Mountain View, California, United States
+   Posted on        : 2025-06-23
+   Role Type        : Individual Contributor
+   Job Type         : Industry
+   Work Flexibility : Up to 50% work from home
+   Description      :
+      Security represents the most critical priorities for our customers in a
+      world awash in digital threats, regulatory scrutiny, and estate
+      complexity. Microsoft Security aspires to make the world a safer place for
+      all. We want to reshape security and empower every user, customer, and
+      developer with a s...
+--------------------------------------------------------------------------------
+
+5. Web Developer, Customer Experiences
+   Job Id:          : 1832919
+   Location         : Redmond, Washington, United States
+   Posted on        : 2025-06-23
+   Role Type        : Individual Contributor
+   Job Type         : Industry
+   Work Flexibility : Up to 50% work from home
+   Description      :
+      We’re looking for a forward-thinking Web Developer, Customer Experiences
+      to help shape the future of scalable, intelligent digital experiences. We
+      are a niche team embedded within Microsoft’s Marketing organization,
+      responsible for web operations across 30+ commercial digital sites serving
+      thousands...
+--------------------------------------------------------------------------------
+
+6. Senior Software Engineer
+   Job Id:          : 1820509
+   Location         : Santa Clara, California, United States
+   Posted on        : 2025-06-20
+   Role Type        : Individual Contributor
+   Job Type         : Industry
+   Work Flexibility : Up to 50% work from home
+   Description      :
+      Microsoft Silicon, Cloud Hardware, and Infrastructure Engineering (SCHIE)
+      is the team behind Microsoft’s expanding Cloud Infrastructure and
+      responsible for powering Microsoft’s “Intelligent Cloud” mission. SCHIE
+      delivers the core infrastructure and foundational technologies for
+      Microsoft's over 200 ...
+--------------------------------------------------------------------------------
+
+7. Senior Software Engineer - Azure Red Hat OpenShift
+   Job Id:          : 1832376
+   Location         : Multiple Locations, Multiple Locations, United States
+   Posted on        : 2025-06-18
+   Role Type        : Individual Contributor
+   Job Type         : Industry
+   Work Flexibility : Up to 100% work from home
+   Description      :
+      Imagine working on a product that bridges two of the most powerful
+      platforms in cloud computing—Microsoft Azure and Red Hat OpenShift. On the
+      Azure Red Hat OpenShift (ARO) team, you’ll be part of a collaborative,
+      high-impact group that delivers fully managed OpenShift clusters with
+      enterprise-grade ...
+--------------------------------------------------------------------------------
+
+8. Senior Software Engineer, Exploration (CoreAI)
+   Job Id:          : 1824688
+   Location         : Multiple Locations, Multiple Locations, United States
+   Posted on        : 2025-06-18
+   Role Type        : Individual Contributor
+   Job Type         : Industry
+   Work Flexibility : Up to 50% work from home
+   Description      :
+      The  Core AI   team is dedicated to empowering every developer to shape
+      the future with AI. This involves creating tools, platforms, and workflows
+      that redefine software development and enable dynamic, AI driven
+      applications .      This opportunity is on the Exploration team within
+      Core AI focused  ...
+--------------------------------------------------------------------------------
+
+9. Principal Software Engineer - MAI Data, Privacy, and Security, Microsoft AI   - Copilot
+   Job Id:          : 1824462
+   Location         : Mountain View, California, United States
+   Posted on        : 2025-06-17
+   Role Type        : Individual Contributor
+   Job Type         : Industry
+   Work Flexibility : Up to 50% work from home
+   Description      :
+      As Microsoft continues to push the boundaries of AI, we are on the lookout
+      for passionate individuals to work with us on the most interesting and
+      challenging AI questions of our time. Our vision is bold and broad —   to
+      build systems that have true artificial intelligence   across agents,
+      applicatio...
+--------------------------------------------------------------------------------
+
+10. Principal Security Engineer
+   Job Id:          : 1833125
+   Location         : New York, New York, United States
+   Posted on        : 2025-06-17
+   Role Type        : Individual Contributor
+   Job Type         : Industry
+   Work Flexibility : Up to 50% work from home
+   Description      :
+      Microsoft is at the forefront of AI innovation, tackling some of the most
+      complex and significant AI challenges of our time. Our vision is
+      ambitious—to deliver systems with genuine artificial intelligence
+      capabilities across agents, applications, services, and infrastructure.
+      The Security Engineerin...
+--------------------------------------------------------------------------------
+
+11. Senior Software Engineer, Agentic Core Services (CoreAI)
+   Job Id:          : 1824889
+   Location         : Mountain View, California, United States
+   Posted on        : 2025-05-29
+   Role Type        : Individual Contributor
+   Job Type         : Industry
+   Work Flexibility : Up to 50% work from home
+   Description      :
+      Core AI is at the forefront of Microsoft’s mission to redefine how
+      software is built and experienced. We are responsible for building the
+      foundational platforms, services, programming models, and developer
+      experiences that power the next generation of applications using
+      Generative AI. Our work enabl...
+--------------------------------------------------------------------------------
+
+12. Principal Software Engineer, Agentic Core Services (CoreAI)
+   Job Id:          : 1824887
+   Location         : Multiple Locations, Multiple Locations, United States
+   Posted on        : 2025-05-29
+   Role Type        : Individual Contributor
+   Job Type         : Industry
+   Work Flexibility : Up to 50% work from home
+   Description      :
+      Core AI is at the forefront of Microsoft’s mission to redefine how
+      software is built and experienced. We are responsible for building the
+      foundational platforms, services, programming models, and developer
+      experiences that power the next generation of applications using
+      Generative AI. Our work enabl...
+--------------------------------------------------------------------------------
+
+13. Principal Software Engineer, Agent Services (CoreAI)
+   Job Id:          : 1826590
+   Location         : Multiple Locations, Multiple Locations, United States
+   Posted on        : 2025-05-27
+   Role Type        : Individual Contributor
+   Job Type         : Industry
+   Work Flexibility : Up to 50% work from home
+   Description      :
+      Core AI is at the forefront of Microsoft’s mission to redefine how
+      software is built and experienced. We are responsible for building the
+      foundational platforms, services, programming models, and developer
+      experiences that power the next generation of applications using
+      Generative AI. Our work enabl...
+--------------------------------------------------------------------------------
+
+14. Senior Software Engineer
+   Job Id:          : 1807402
+   Location         : Mountain View, California, United States
+   Posted on        : 2025-05-21
+   Role Type        : Individual Contributor
+   Job Type         : Industry
+   Work Flexibility : Up to 50% work from home
+   Description      :
+      Security represents the most critical priorities for our customers in a
+      world awash in digital threats, regulatory scrutiny, and estate
+      complexity. Microsoft Security aspires to make the world a safer place for
+      all. We want to reshape security and empower every user, customer, and
+      developer with a s...
+--------------------------------------------------------------------------------
+
+15. Senior Software Engineer - Azure Storage
+   Job Id:          : 1821912
+   Location         : Multiple Locations, Multiple Locations, United States
+   Posted on        : 2025-05-01
+   Role Type        : Individual Contributor
+   Job Type         : Industry
+   Work Flexibility : Up to 100% work from home
+   Description      :
+      Have you ever imagined the world with an infinite amount of storage
+      available and accessible to everyone? If so, the Microsoft Azure Storage
+      team is what you are looking for. We are building Microsoft’s cloud
+      storage solution - Microsoft Azure Storage, which is a massively scalable,
+      highly distribut...
+--------------------------------------------------------------------------------
