@@ -1,4 +1,4 @@
-# Microsoft Job Scraper & Resume Matcher
+# Job Scraper & Resume Matcher
 
 This project automates the process of scraping Microsoft job postings, evaluating them against your resume, and generating detailed fit analyses for each role. It leverages the Groq LLM API for intelligent matching and outputs structured results for easy review.
 
