@@ -4,7 +4,7 @@ This project automates the process of scraping Microsoft job postings, evaluatin
 
 ## Features
 
-- **Job Scraping:** Fetches the latest Microsoft job postings for software engineering roles in target locations.
+- **Job Scraping:** Fetches the latest job postings for software engineering roles in target locations.
 - **Resume Parsing:** Reads your resume from `sources/resume.txt`.
 - **AI-Powered Matching:** Uses Groq LLM to evaluate job fit based on your resume and job descriptions.
 - **Result Categorization:** Outputs strong matches to `strong-matches/` and other matches to `other-matches/`.
